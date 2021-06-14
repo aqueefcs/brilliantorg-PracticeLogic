@@ -3,6 +3,21 @@ I have Deployed this Website:- https://brilliantorg-practice-logic-page.netlify.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+List of Dependecies used:-
+1. react-boostrap :- It is used to give styling to elements. It provied in built classes which makes user fiendly,eye catchy,highly responsive ui.
+2. react-icons.
+
+Steps to create React Web Apps:-
+1.install node and npm package manager.
+2. install react
+3. create react webapps:- In the command line run - npm create-react-app <app-name>
+4. then go inside the directory and run - npm start
+5. Your webapp is running on localhost:3000 in your browser.
+
+You can download this repository and after downloading go inside the directory and run following commands:-
+  1. npm install - this will create a folder node_modules and will install all the important and necessary dependecies used in this project.
+  2.After that run - npm start
+  3.Webapp is running on localhost:3000 in your browser
 
 ## Available Scripts
 
